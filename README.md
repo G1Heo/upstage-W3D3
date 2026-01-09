@@ -1,4 +1,4 @@
-<img width="922" height="641" alt="image" src="https://github.com/user-attachments/assets/6ac23a10-2e89-4c6d-ad3a-a9aa6c2455c6" /># upstage-W3D3
+# upstage-W3D3
 3주차 3일차 advanced mission을 위한 repo 입니다.
 
 1. 반갑습니다! 간단한 자기소개 작성해주세요 ☺️
