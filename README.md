@@ -1,4 +1,4 @@
-# upstage-W3D3
+<img width="922" height="641" alt="image" src="https://github.com/user-attachments/assets/6ac23a10-2e89-4c6d-ad3a-a9aa6c2455c6" /># upstage-W3D3
 3주차 3일차 advanced mission을 위한 repo 입니다.
 
 1. 반갑습니다! 간단한 자기소개 작성해주세요 ☺️
@@ -17,3 +17,7 @@ Git 워크플로우와 GitHub 워크플로우에 대해 학습
 
 2. 학습 목표 또는 다짐 간단하게 작성해주시면 됩니다 !!
 -> AI Agent 개발과정을 전체 사이클을 찐하게 겪어본 프로덕트 매니저가 되고 싶습니다!
+
+---
+
+안녕하세요! 허지원입니다. 데이터사이언스 전공이고, 데이터 분석 및 AI Agent 연구 및 활용에 관심이 있습니다. 이번 주 강의 및 실습을 통해 Git을 비롯한 개발환경 구축을 잘 해두려고 합니다 !!
